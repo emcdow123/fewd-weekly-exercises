@@ -3,7 +3,7 @@
 
 - To start, we're going to fork an existing "skeleton" project to do our exercises in, we don't want to rely on web based editors, we want to do our work locally on our machines and leverage git and GitHub!
 
-- Go here, and look for the option to fork this project: https://github.com/emcdow123/fewd-skeleton/tree/v1.2
+- Go here, and look for the option to fork this project: https://github.com/emcdow123/fewd-skeleton/tree/v1.0
 
 - Once you've forked this project, you should have a copy of it in your own GitHub profile, feel free to go there, change the name of the project, and then be sure to pull the project down to your local machine so we can make changes to it!
 
