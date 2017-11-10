@@ -1,4 +1,4 @@
-# Exercise one: Create a simple HTML page!
+# Exercise two: Create a simple git repo and track it with GitHub!
 Now that you know Git, lets make some use of it! Last week we created a simple HTML file that's going to be the basis of our site, now, we're going to move this file into a repository in git!
 
 To start, we're going to fork an existing "skeleton" project to do our exercises in, we don't want to rely on web based editors, we want to do our work locally on our machines and leverage git and GitHub!
